@@ -62,6 +62,18 @@ namespace PI_ACADEMIA
             {
                 MessageBox.Show("Por Favor prencher todos os campos");
             }
+           
+
+        }
+
+        private void RedefinirSenha_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxSENHA_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
